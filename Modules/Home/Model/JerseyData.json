@@ -1,0 +1,48 @@
+[ {
+    "title": "Recite words",
+	"imageView": "target_0_selected",
+	"imageIndex": "0",
+    "finishWeekDays": ["1","2","3","4","5","6","0"],
+	"notificationTimes": [],
+    "encourage": "Perseverance is victory",
+    "finishStatus": "NO",
+    "notificationStatus": "NO",
+    "monthNumber": "0",
+    "totalNumber": "0",
+    
+},{
+    "title": "Reading book",
+    "imageView": "target_1_selected",
+    "imageIndex": "1",
+    "finishWeekDays": ["1","2","3","4","5","6","0"],
+    "notificationTimes": [],
+    "encourage": "Abdominal poetry and gas from China",
+    "finishStatus": "NO",
+    "notificationStatus": "NO",
+    "monthNumber": "0",
+    "totalNumber": "0",
+}, {
+    "title": "Go to bed early",
+    "imageView": "target_2_selected",
+    "imageIndex": "2",
+    "finishWeekDays": ["1","2","3","4","5","6","0"],
+    "notificationTimes": [],
+    "encourage": "Beauty sleep every day",
+    "finishStatus": "NO",
+    "notificationStatus": "NO",
+    "monthNumber": "0",
+    "totalNumber": "0",
+}, {
+    "title": "Get up early",
+    "imageView": "target_13_selected",
+    "imageIndex": "13",
+    "finishWeekDays": ["1","2","3","4","5","6","0"],
+    "notificationTimes": [],
+    "encourage": "Early bird gets the worm",
+    "finishStatus": "NO",
+    "notificationStatus": "NO",
+    "monthNumber": "0",
+    "totalNumber": "0",
+}]
+ 
+ 
